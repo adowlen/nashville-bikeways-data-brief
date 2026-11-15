@@ -1,0 +1,512 @@
+OBJECTID,BikewayType,Status,OnStreetName,FromStreetName,ToStreetName,YearCompleted,District,Shape__Length
+1,WOL,Complete,Broadway,3rd Ave S,1st Ave S,2011,19,533.7283276558786
+2,BL,Complete,Division St,Buddy Killen Cir,Music Sq E,2004,19,179.75189524270607
+3,PBL,Complete,12th Ave S,Lawrence Ave,Division St,2023,"17, 18, 19",8166.905309220763
+4,BL,Complete,Fort Negley Blvd,Chestnut St,Hamilton Ave,2014,17,1097.5147844989028
+5,SSR,Complete,12th Ave S,Ashwood Ave,Halcyon Ave,2007,"17, 18",2408.3672724250337
+6,SSR,Complete,12th Ave S,Halcyon Ave,Clayton Ave,2007,"17, 18",1763.9587923210324
+7,BL,Complete,Granny White Pike,Clayton Ave,Battlefield Dr,2007,"17, 18, 25",997.3894611509006
+8,SSR,Complete,Granny White Pike,Battlefield Dr,Woodmont Blvd,2007,25,1332.392564494012
+9,SSR,Complete,Belmont Blvd,Woodmont Blvd,Shackleford Rd,2004,25,4329.348286504244
+10,BL,Complete,Belmont Blvd,Gale Ln,Woodmont Blvd,2019,25,1626.245926410967
+11,BBL,Complete,Belmont Blvd,S of Clayton Ave,Gale Ln,2019,"18, 25",467.4011888152478
+12,BBL,Complete,Belmont Blvd,Ashwood Ave,S of Clayton Ave,2020,18,4218.028679571971
+13,WOL,Complete,Wedgewood Ave,Magnolia Blvd,16th Ave S,2005,"17, 18",
+14,SSR,Complete,Blair Blvd,Natchez Trc,Belmont Blvd,2005,18,4896.102810223223
+15,SSR,Complete,Wedgewood Ave,17th Ave S,Magnolia Blvd,2005,"17, 18",206.68072161540064
+16,SSR,Complete,Wedgewood Ave,21st Ave S,17th Ave S,2004,"17, 18",
+17,WOL,Complete,Blakemore Ave,Natchez Trc,21st Ave S,2005,18,3001.676683732908
+18,SSR,Complete,Fairfax Ave,24th Ave S,21st Ave S,2005,18,1289.067437272462
+19,SSR,Complete,Fairfax Ave,Natchez Trc,24th Ave S,2005,18,1743.085878438616
+20,SSR,Complete,24th Ave S,Garland Ave,Blakemore Ave,2012,18,1909.4988397256386
+21,BL,Complete,Edgehill Ave,21st Ave S,16th Ave S,2010,"17, 19",1994.570031746117
+22,SSR,Complete,Woodlawn Dr,Natchez Trc,21st Ave S,2012,18,2084.9492184749947
+23,BBL,Complete,Natchez Trc,Blair Blvd,Westwood Ave,2015,18,1558.56355804551
+24,SSR,Complete,Woodlawn Dr,Bowling Ave,Natchez Trc,2012,"18, 24, 25",4579.954546914061
+25,SSR,Complete,Blair Blvd,Marlborough Ave,Natchez Trc,2005,18,2417.7959332809082
+26,BL,Complete,Fairfax Ave,Marlborough Ave,Natchez Trc,2005,18,
+27,SSR,Complete,Marlborough Ave,Elmington Ave,Fairfax Ave,2005,"18, 24",2017.4276344007956
+28,SSR,Complete,31st Ave S,West End Ave,Natchez Trc,2005,"18, 21",2098.2749689245593
+29,BL,Complete,Woodmont Blvd,Valley Brook Rd,Hillsboro Pike,2004,25,451.47563643705905
+30,BL,Complete,Woodmont Blvd,Lynnbrook Rd,Valley Brook Rd,2004,"24, 25",5504.513338686102
+31,BL,Complete,Elmington Ave,Richardson Ave,Sharondale Ave,2013,24,2548.465221664607
+32,SSR,Complete,Woodlawn Dr,Harding Pike,Bowling Ave,2012,24,5601.845143984969
+33,SSR,Complete,Hillsboro Pike,Woodmont Blvd,Harding Pl,2010,"25, 34",10002.911275368728
+34,BL,Complete,Crestmoor Rd,Cleghorn Ave,Hillsboro Pike,2012,25,
+35,BL,Complete,Cleghorn Ave,Crestmoor Rd,Abbott Martin Rd,2012,25,1303.891935164985
+36,BL,Complete,Bandywood Dr,Abbott Martin Rd,Hillsboro Cir,2013,25,1425.791997931401
+37,BL,Complete,Hillsboro Cir,Abbott Martin Rd,Hobbs Rd,2012,25,1996.9620816809127
+38,SSR,Complete,Trousdale Dr,Baxter Ln,Broadwell Dr,2007,26,622.7337611671303
+39,BL,Complete,Trousdale Dr,Dillard Ct,Baxter Ln,2007,26,
+40,SSR,Complete,Trousdale Dr,Harding Pike,Dillard Ct,2007,26,8643.595575578469
+41,SSR,Complete,Hogan Rd,Trousdale Dr,Marchant Dr,2007,26,2921.514891001123
+42,SSR,Complete,Marchant Dr,Hogan Rd,Edmondson Pike,2007,"26, 27",4057.910379730201
+43,SSR,Complete,Edmondson Pike,Nolensville Pike,Old Hickory Blvd,2006,"04, 26, 27, 30",15407.592155982522
+44,BL,Complete,Huntington Pkwy,Edmondson Pike,Amalie Dr,2013,27,5745.0291184910675
+45,BL,Complete,Ocala Dr,Wessex Dr,Tusculum Rd,2012,"27, 30, 31",
+46,SSR,Complete,Ocala Dr,Nolensville Pike,Wessex Dr,2012,27,2025.6835771131468
+47,PBL,Complete,Nolensville Pike,Elysian Fields Rd,Hickoryview Dr,2024,"26, 27, 30",15135.628804596796
+48,BL,Completed,Nolensville Pike,Thompson Ln,McNally Dr,2017,"16, 26",6945.4857446265405
+49,BL,Complete,Demonbreun St,12th Ave S,10th Ave S,2004,19,1144.0570703749925
+50,BL,Complete,Demonbreun St,10th Ave S,5th Ave S,2013,19,1883.26651912688
+51,SSR,Complete,Demonbreun St,5th Ave S,3rd Ave S,2004,19,823.7168621133869
+52,SSR,Complete,3rd Ave S,Shelby Ave,Demonbreun St,2004,19,383.2057268802145
+53,SSR,Complete,Demonbreun St,3rd Ave S,1st Ave S,2004,19,520.3182174861017
+54,SSR,Complete,1st Ave N,Church St,Broadway,2011,19,1120.905783910963
+55,SSR,Complete,Hermitage Ave,Korean Veterans Blvd,Lindsley Ave,2015,19,2835.821337044787
+56,SSR,Complete,Hermitage Ave,Lindsley Ave,Fairfield Ave,2015,19,2260.692153904043
+57,BL,Complete,6th Ave S,Lafayette St,I-40,2022,"17, 19",1527.710930802305
+58,SSR,Complete,6th Ave S,Peabody St,Lafayette St,2004,19,671.1111785804135
+59,BL,Complete,6th Ave S,I-40,Oak St,2022,17,631.3232266666995
+60,SSR,Complete,3rd Ave S,Broadway,Shelby Ave,2011,19,438.8334821047588
+61,BL,Complete,S 1st St,Victory Ave,Korean Veterans Blvd,2007,06,321.6613973292613
+62,SSR,Complete,6th Ave S,Demonbreun St,Peabody St,2004,19,1213.00744737533
+63,PBL,Complete,Korean Veterans Blvd,Korean Veterans Memorial Bridge (E of 1st Ave S),Korean Veterans Memorial Bridge (W of S 2nd St),2023,"06, 19",1716.0579205005633
+64,BL,Complete,S 2nd St,Davidson St,S of Sylvan St,2009,06,911.4001448379637
+65,SSR,Complete,S 2nd St,Victory Ave,S of Sylvan St,2007,06,683.0055339406733
+66,SSR,Complete,Victory Ave,Titans Way,S 2nd St,2007,06,1129.0234995852547
+67,SSR,Complete,Titans Way,Russell St,Victory Ave,2007,06,1220.6301504259511
+68,SSR,Complete,Russell St,Titans Way,S 1st St,2007,06,808.6544778520854
+69,BL,Complete,Korean Veterans Blvd,Korean Veterans Memorial Bridge (W of S 2nd St),S 2nd St,2014,06,322.91808105960433
+70,BL,Complete,Shelby Ave,S 4th St,S 10th St,2004,06,
+71,BBL,Complete,Shelby Ave,S 10th St,S 11th St,2004,06,470.28382379620535
+72,SSR,Complete,Shelby Ave,S 14th St,S 20th St,2004,06,3218.6263692753164
+73,BBL,Complete,S 19th St,Russell St,Shelby Ave,2020,06,1450.5313443638827
+74,SSR,Complete,Woodland St,S 5th St,S 11th St,2005,06,4855.422454715504
+75,SSR,Complete,S 11th St,Woodland St,Shelby Ave,2005,06,2312.333679219954
+76,WOL,Complete,Woodland St,S 11th St,S 17th St,2008,06,3056.1399422946156
+77,SSR,Complete,Eastland Ave,Porter Rd,Riverside Dr,2006,06,2361.045173284623
+78,BL,Complete,Bell Rd,Blue Hole Rd,Cane Ridge Rd,2013,"31, 32",3844.793785234783
+79,SSR,Complete,Bell Rd,Cane Ridge Rd,I-24,2013,"31, 32",804.5645734114865
+80,SSR,Complete,Bell Rd,I-24,Hickory Hollow Pkwy,2013,32,
+81,BL,Complete,Bell Rd,Hickory Hollow Pkwy,Bell Forge Ln,2013,32,2923.031256204116
+82,BL,Complete,Bell Rd,Murfreesboro Pike,Bell Forge Ln,2013,"29, 32",8709.14776442295
+83,BL,Complete,Murfreesboro Pike,Hamilton Church Rd,Hobson Pike,2013,"32, 33",10317.253588602332
+84,BL,Complete,Murfreesboro Pike,Hobson Pike,County Line,2013,"32, 33",8499.80099629398
+85,SSR,Complete,Castlegate Dr,Smith Springs Rd,Holder Dr,2012,29,2077.042300006683
+86,SSR,Complete,Anderson Rd,Couchville Pike,Smith Springs Rd,2011,29,7725.9424151721205
+87,BL,Complete,Murfreesboro Pike,Rural Hill Rd,Hamilton Church Rd,2013,"29, 32, 33",4624.589750212338
+88,BBL,Complete,Nashboro Blvd,Murfreesboro Pike,Flintlock Ct,2014,29,4003.192315816047
+89,PBL,Completed,Tusculum Rd,Raywood Ln,Blue Hole Rd,2026,"27, 33",12948.44142428632
+90,BL,Complete,Murfreesboro Pike,McGavock Pike,Donelson Pike,2015,13,9191.900929887555
+91,BBL,Complete,Murfreesboro Pike,Spence Ln,McGavock Pike,2015,"13, 15, 16",13613.883219198755
+92,BL,Complete,Murfreesboro Pike,Transit Ave,Spence Ln,2015,"15, 16, 17, 19",4326.254697239798
+93,SSR,Complete,Elm Hill Pike,Fesslers Ln,I-40,2013,19,1563.1786828462798
+94,SSR,Complete,Elm Hill Pike,I-40,Massman Dr,2013,"15, 19",8226.723911124003
+95,BL,Complete,Bell Rd,Nashboro Blvd,Smith Springs Rd,2012,"13, 29",523.235189620639
+96,SSR,Complete,Priest Woods Dr,Pleasant View Dr,Bell Rd,2012,13,2017.1072259813131
+97,SSR,Complete,Pleasant View Rd,Timber Valley Dr,Priest Woods Dr,2012,13,331.16767051064704
+98,SSR,Complete,Timber Valley Dr,S Timber Dr,Pleasant View Dr,2012,13,3614.3169367934915
+99,BL,Complete,Elm Hill Pike,Timber Valley Dr,Bell Rd,2012,13,3912.5849009993735
+100,BBL,Complete,Stewarts Ferry Pike,I-40,Blackwood Dr / Bell Rd,2014,"13, 14",1914.809585760401
+101,SSR,Complete,Central Pike,Old Hickory Blvd,Earhart Rd,2015,12,9772.88774359883
+102,PBL,Complete,Old Hickory Blvd,Lebanon Pike,Hermitage Woods Dr,2016,"11, 12, 14",9279.117631723393
+103,BL,Complete,Andrew Jackson Pkwy,Saundersville Rd,Lebanon Pike,2010,11,3831.008007450757
+104,BL,Complete,Lebanon Pike,Disspayne Dr,Jackson Downs Blvd,2008,14,6114.630618608274
+105,SSR,Complete,"Private (Shelby Park)
+",Private (Shelby Park),Riverside Dr,2008,06,3416.067095500919
+106,BL,Completed,Lebanon Pike,Jackson Downs Blvd,Stones River Rd,2008,14,1306.992564858911
+107,SSR,Complete,Sioux Ter,Neelys Bend Rd,Apache Ln,2012,09,5000.166115300274
+108,BL,Complete,Myatt Dr,Edenwold Rd,Anderson Ln,2015,"09, 10",6203.850627511579
+109,BL,Complete,Myatt Dr,Gallatin Pike,Edenwold Rd,2015,10,3500.837743596332
+110,BL,Complete,Long Hollow Pike,I-65 N Ramp,County Line,2010,10,1957.6194031974458
+111,SSR,Complete,Long Hollow Pike,Two Mile Pike,I-65 N Ramp,2010,10,2348.7806530316234
+112,BL,Complete,Jo Johnston Ave,16th Ave N,10th Ave N,2011,19,2610.4649256735947
+113,SSR,Complete,Pennington Bend Rd,Penn Meade Dr,McGavock Pike,2012,15,10693.55742823943
+114,SSR,Complete,Penn Meade Dr,Pennington Bend Rd,Lock Two Rd,2011,15,1634.2067801631415
+115,BBL,Complete,Gallatin Pike,Anderson Ln,Old Hickory Blvd,2015,"08, 09",3827.0968477347064
+116,SSR,Complete,Gallatin Pike,E Webster St,Due West Ave,2017,"07, 08",1635.5980972526936
+117,SSR,Complete,Gallatin Pike,Lakewood Dr,Walton Ln,2017,"07, 08",2121.515544969833
+118,SSR,Complete,Private (Shelby Park) ,Private (Shelby Park) ,Private (Shelby Park) ,2015,06,792.8437098124614
+119,SSR,Complete,Private (Shelby Park),Davidson St,Private (Shelby Park),2004,06,4762.162952628725
+120,SSR,Complete,Dickerson Pike,Long Hollow Pike,Dry Creek Rd,2014,10,9392.683759414507
+121,BL,Complete,Old Hickory Blvd,I-65,Gallatin Pike,2015,"08, 09",7646.9552482875915
+122,WOL,Complete,Due West Ave,Old Due West Ave,Gallatin Pike,2010,"07, 08",6594.211175906943
+123,WOL,Complete,S Graycroft Ave,Old Hickory Blvd,Due West Ave,2010,08,5593.351492964804
+124,WOL,Complete,Saunders Ave,Due West Ave,Broadmoor Dr,2008,08,7185.103179801736
+125,WOL,Complete,Saunders Ave,Broadmoor Dr,Hart Ln,2008,08,5294.879326092493
+126,BL,Complete,Old Hickory Blvd,Dickerson Pike,I-65,2015,"03, 08",5601.661277861238
+127,SSR,Complete,Old Hickory Blvd,Whites Creek Pike,Dickerson Pike,2015,"01, 03, 08",24834.38155563726
+128,BL,Complete,Thompson Ln,Eugenia Ave,Southlake Dr / E Thompson Ln,2015,"16, 17",7871.608818044863
+129,SSR,Complete,Nolensville Pike,I-440 Ramp,Thompson Ln,2017,"16, 17",5158.228835516427
+130,BBL,Complete,Nolensville Pike,Wingrove St,Polk Ave,2017,17,2436.0683822158153
+131,BL,Complete,Foster Ave,Murfreesboro Pike,750' S of Murfreesboro Pike,2010,"17, 19",752.3196653959423
+132,BL,Complete,Foster Ave,750' S Murfreesboro Pike,Lyle Ave,2010,17,4038.244684192943
+133,SSR,Complete,Foster Ave,Lyle Ln,Thompson Ln,2010,"16, 17",6499.830340412499
+134,PBL,Complete,Commerce St,9th Ave N,2nd Ave N,2020,19,2540.1501187139993
+135,SSR,Complete,James Robertson Pkwy/Rosa L Parks Blvd,Rosa L Parks Blvd,Church St,2010,19,2382.3125133569256
+136,SSR,Complete,James Robertson Pkwy,Rosa L Parks Blvd,S 5th St,2010,"05, 06, 19",7378.924525477524
+137,BL,Complete,10th Ave N,Harrison St,Jo Johnston Ave,2011,19,690.2225544459119
+138,SSR,Complete,Harrison St,W of Rosa L Parks Blvd,Music City Bikeway,2011,19,1696.2747317384783
+139,SSR,Complete,Woodland St,Union St / 1st Ave N,I-24,2006,"06, 19",3215.7056658105716
+140,SSR,Complete,Woodland St,I-24,S 5th St,2006,06,898.9670794645436
+141,SSR,Complete,S 1st St,Woodland St,Russell St,2006,06,431.340196937745
+142,SSR,Complete,Union St,3rd Ave N,1st Ave N,2006,19,687.4599418604657
+143,BBL,Complete,Church St,George L Davis Blvd,9th Ave N,2014,19,2094.3805823802136
+144,SSR,Complete,Church St,15th Ave N,George L Davis Blvd,2014,19,697.9416432324258
+145,SSR,Complete,Church St,21st Ave N,15th Ave N,2010,"19, 21",3475.0366038858942
+146,SSR,Complete,Natchez Trc,West End Ave,Blakemore Blvd,2015,"18, 21",2793.2957610423755
+147,SSR,Complete,Charlotte Ave,15th Ave N,George L Davis Blvd,2011,19,913.5843675260646
+148,BL,Complete,16th Ave N,Jo Johnston Ave,Capitol Pt,2011,19,751.932594005232
+149,BL,Complete,Charlotte Ave,26th Ave N,16th Ave N,2011,"19, 21",6008.918790486879
+150,SSR,Complete,Dr Db Todd Jr Blvd,Jo Johnston Ave,Charlotte Ave,2005,"19, 21",1085.6712409547913
+151,PBL,Complete,Dr Db Todd Jr Blvd,Jo Johnston Ave,Morena St,2021,"19, 21",1954.026831341757
+152,PBL,Complete,Dr Db Todd Jr Blvd,Albion St,Meharry Blvd,2021,19,789.635584704625
+153,PBL,Complete,Dr Db Todd Jr Blvd,Meharry Blvd,Buchanan St,2021,"19, 21",4498.726893201046
+154,PBL,Complete,Dr Db Todd Jr Blvd,Clarksville Pk / Clay St,Buchanan St,2024,"02, 21",1068.1876951760116
+155,SSR,Complete,Jefferson St,Rosa L Parks Blvd,5th Ave N,2008,19,1237.6025382620985
+156,SSR,Complete,Jefferson St,12th Ave N,Rosa Parks Blvd,2008,19,2414.3757207435656
+157,SSR,Complete,Rosa L Parks Blvd,I-65,Jefferson St,2007,19,4221.2456564474915
+158,SSR,Complete,Rosa L Parks Blvd,Dominican Dr,I-65,2007,"02, 19, 21",1617.886715408207
+159,BL,Complete,3rd Ave N,Garfield St,Van Buren St,2013,19,1094.331691143018
+160,SSR,Complete,3rd Ave N,I-65,Garfield St,2011,19,2110.9179942059964
+161,SSR,Complete,Dominican Dr,Rosa L Parks Blvd,I-65,2011,"02, 19, 21",1292.6944405778254
+162,PBL,Complete,Buchanan/Garfield St,23rd Ave N,7th Ave N,2021,"19, 21",6407.216727733644
+163,SSR,Complete,Clarksville Pike,County Hospital Rd,Rosa L Parks Blvd,2010,"01, 02, 21",3814.1255551108707
+164,SSR,Complete,Jefferson St,Jefferson St,12th Ave N,2008,"19, 21",4437.663618421549
+165,SSR,Complete,Jefferson St,I-40,Jefferson St,2008,21,236.25524368992836
+166,SSR,Complete,Jefferson St,Ed Temple Blvd,I-40,2008,21,1852.8354225820744
+167,BL,Complete,Rosa L Parks Blvd,Clarksville Pike,Dominican Dr,2010,02,8915.841119142593
+168,SSR,Complete,Great Circle Rd,Rosa L Parks Blvd,Vantage Way,2006,02,8670.409399141361
+169,SSR,Complete,Athens Way,Great Circle Rd,Rosa L Parks Blvd,2006,02,2471.099599146177
+170,BL,Complete,39th Ave N,John L Driver Ave,Clare Ave,2015,21,1676.290861714812
+171,SSR,Complete,39th Ave N,Dr Walter S Davis Blvd,John L Driver Ave,2015,21,305.8997444788329
+172,WOL,Complete,Dr Walter S Davis Blvd,39th Ave N,Ed Temple Blvd,2010,21,5162.5797037067205
+173,WOL,Complete,Dr Walter S Davis Blvd,44th Ave N,39th Ave N,2007,21,1653.815493489432
+174,BL,Complete,Charlotte Ave,33rd Ave N,31st Ave N/City Ave,2021,"21, 24",823.3700375730023
+175,SSR,Complete,Centennial Blvd,51st Ave,44th Ave N,2008,"20, 21",2847.8588028477884
+176,PBL,Complete,51st Ave N,Centennial Blvd,Charlotte Ave,2017,"20, 24",3760.690332000864
+177,SSR,Complete,Nebraska Ave,51st Ave N,48th Ave N,2004,24,1134.2125279144793
+178,BBL,Completed,51st Ave N,Park Ave,Wyoming Ave,2016,24,2930.534842736076
+179,SSR,Complete,Wyoming Ave,Golf Course,46th Ave N,2004,24,2257.234423763264
+180,BL,Complete,Murphy Rd,Bowling Ave,I-440,2015,"18, 21, 24",2304.0859346319553
+181,BL,Complete,Elmington Ave,West End Ave,Richardson Ave,2013,"18, 24",1017.6522718488994
+182,BL,Complete,Woodmont Blvd,Harding Pike,Lynnbrook Rd,2006,"24, 25",6408.606215639924
+183,BBL,Complete,Charlotte Ave,50th Ave N,46th Ave N,2021,24,1471.9075586769084
+184,SSR,Complete,Charlotte Pike,Westboro Dr,54th Ave N,2006,"20, 24",3027.4002994285215
+185,WOL,Complete,Sloan Rd,Murphy Rd,Richland Creek Greenway,2005,24,1834.266423721799
+186,BL,Complete,Cherokee Rd,Richland Creek Greenway,West End Ave,2012,24,2638.981342467959
+187,SSR,Complete,Lion's Head Shopping Center,Richland Creek Greenway,White Bridge,2012,24,1916.6080726366426
+188,BL,Complete,Charlotte Pike,Annex Ave / Hillwood Blvd,Westboro Dr,2015,20,3881.794578439883
+189,BL,Complete,Annex Ave,Mall Entrance,Charlotte Pike,2012,20,993.5006056155739
+190,SSR,Complete,Annex Ave,Cleeces Ferry Rd,I-40,2012,20,1589.8474035039728
+191,SSR,Complete,Annex Ave,American Rd,Cleeces Ferry Rd,2012,20,4020.931213524738
+192,BL,Complete,Charlotte Pike,I-40,Summerly Dr,2015,"20, 23",5036.079322466247
+193,BL,Complete,Charlotte Pike,Summerly Dr,Annex Ave / Hillwood Dr,2015,"20, 23",1207.249309430799
+194,SSR,Complete,Cabot Dr,Annex Ave,Charlotte Pike,2012,"20, 35",6498.449724556744
+195,BL,Complete,Post Rd,White Bridge Pike,Old Harding Pike,2012,"23, 24",10669.301762601268
+196,SSR,Complete,Old Harding Pike,Post Rd,Harding Pike,2012,23,3037.952624627081
+197,BL,Complete,Hillsboro Pike,5836 Hillsboro Pike,6242 Hillsboro Pike,2010,34,9023.92134507814
+198,BL,Complete,Harding Pk/Hwy 70 S,Percy Warner Blvd,Old Harding Pike,2013,23,595.737235662593
+199,SSR,Complete,Percy Warner Blvd,Harding Pike,Vaughns Gap Rd,2012,23,5841.65800389341
+200,BL,Complete,Charlotte Pike,River Rd,I-40,2015,"20, 22, 23, 35",2430.06423481369
+201,BL,Complete,Charlotte Pike,Sawyer Brown Rd,River Rd,2015,"22, 35",7687.777749748253
+202,SSR,Complete,Hwy 100,Old Hickory Blvd,Harding Pike,2012,"23, 34",17081.489008382458
+203,SSR,Complete,Vaughns Gap Rd,Percy Warner Blvd,Hwy 100,2012,"23, 34",1390.3481402151174
+204,SSR,Complete,Hwy 100,Temple Rd,Old Hickory Blvd,2012,"34, 35",15154.012351075316
+205,BL,Complete,Hwy 100,Old Harding Pike,Collins Rd,2015,35,8440.684750320683
+206,BL,Complete,Hwy 100,County Line,Old Harding Pike,2015,35,21012.568619182646
+207,BBL,Complete,Hwy 96,Hwy 100,County Line,2014,35,9139.381672783555
+208,BL,Complete,Hwy 70 S,I-40,Sawyer Brown Rd,2013,"22, 23, 34",11312.927596217158
+209,SSR,Complete,Charlotte Pike,County Line,Sawyer Brown Rd,2007,"22, 35",37665.20133058336
+210,BL,Complete,Harding Pk/Hwy 70 S,Old Hickory Blvd,Percy Warner Blvd,2013,"23, 34",15525.012939384118
+211,SSR,Complete,Old Harding Pike,Hwy 70 S,Sawyer Brown Rd,2013,"22, 34, 35",7679.557803923456
+212,BL,Complete,Sawyer Brown Rd,Hwy 70 S,Old Harding Pike,2004,"22, 35",7071.3648640888
+213,PBL,Complete,Bellevue Rd,Hwy 70  S,Todd Preis Dr / Baugh Rd,2026,22,2424.0941686432934
+214,BL,Complete,Harpeth Bend Dr,Beech Bend Dr,Hwy 100,2007,"34, 35",10561.109211777952
+215,BL,Complete,Harpeth Knoll Rd,Beech Bend Dr,Harpeth Bend Dr,2007,35,2186.9434298234023
+216,BL,Complete,Ashland City Hwy,County Line,Briley Pkwy,2013,01,35827.369322679435
+217,SSR,Complete,River Trc,County Line,Ashland City Hwy,2008,01,9532.917543254536
+218,SSR,Complete,Old Hickory Blvd,Ashland City Hwy,Dead End,2008,01,33287.96813192861
+219,SSR,Complete,Old Hickory Blvd,Eatons Creek Rd,Ashland City Hwy,2011,01,21314.00069211216
+220,SSR,Complete,Eatons Creek Rd,Kings Ln,Ashland City Hwy,2011,01,2554.6253379704754
+221,WOL,Complete,Clarksville Pike,Ashland City Hwy,County Hospital Rd,2010,"01, 02",2024.062814182274
+222,BL,Complete,Whites Creek Pike,Buena Vista Pike,Green Ln,2017,01,7102.913263595516
+223,SSR,Complete,Eatons Creek Rd,Old Hickory Blvd,Ashland City Hwy,2011,01,19743.01359279061
+224,BL,Complete,Clarksville Pike,Old Hickory Blvd,Briley Pkwy,2012,01,
+225,SSR,Complete,Whites Creek Pike,County Line,I-24,2012,01,26383.812177686617
+226,SSR,Complete,Whites Creek Pike,I-24,Old Clarksville Pike,2012,01,4180.89506082562
+227,BL,Complete,W Trinity Ln,Whites Creek Pk / Baptist World Center Dr,Brick Church Pike,2013,02,4275.498037724521
+228,BL,Complete,Douglas Ave,Dickerson Pike,Stockell Ave,2007,05,1123.901733422063
+229,SSR,Complete,Douglas Ave,Stockell Ave,Pennock Ave,2007,05,773.8521825851495
+230,BL,Complete,Douglas Ave,Pennock Ave,Ellington Pkwy,2007,05,3940.072676236255
+231,BL,Complete,Douglas Ave,Ellington Pkwy,Cline Ave,2007,05,360.78706602928867
+232,SSR,Complete,Dickerson Pike,Briley Pkwy,Douglas Ave,2007,"02, 03, 05, 08",18013.09047568691
+233,SSR,Complete,Hart Ln,Dickerson Pike,Ellington Pkwy,2007,08,
+234,SSR,Completed,Dickerson Pike,Grace St,Douglas Ave,2007,05,4113.586315071763
+235,SSR,Complete,Spring St,N 1st St,Main St,2007,"05, 06",3700.8052878847816
+236,SSR,Complete,Hart Ln,Ellington Pkwy,Saunders Ave,2007,08,2943.3251239737383
+237,SSR,Complete,Porter Rd,Riverside Dr,Rosebank Ave,2012,07,4376.4180175127485
+238,WOL,Complete,Rosebank Ave,Porter Rd,Shelby Bottoms Greenway,2012,07,2242.2708770464615
+239,SSR,Complete,Preston Dr,Porter Rd,Rosebank Ave,2012,"06, 07",3428.248159346828
+240,BL,Complete,Eastland Ave,Gallatin Pike,Porter Rd,2006,06,4411.38834207765
+241,BL,Complete,Douglas Ave,Cline Ave,Gallatin Ave,2007,"05, 06",2131.085007750022
+242,SSR,Complete,Greenwood Ave,Gallatin Pike,Porter Rd,2006,"05, 06",4833.724169811088
+243,BL,Complete,Greenwood Ave,Porter Rd,Riverside Dr,2012,06,802.8342576452505
+244,BBL,Complete,Cahal Ave,Gallatin Pike,Scott Ave,2022,07,2842.3706780166817
+245,BBL,Complete,Harding Pl,Harding Industrial Dr,Ezell Pike,2014,"13, 28",3848.5693184120846
+246,SSR,Complete,Donelson Pike,Murfreesboro Pike,Harding Pl,2015,"13, 28",5239.761008732696
+247,SSR,Complete,Harding Pl,I-24,Ezell Pike,2014,"13, 28, 30",3768.736016494412
+248,SSR,Complete,Dickerson Pike,County Line,Long Hollow Pike,2014,10,6146.201007811751
+249,BL,Complete,Mulberry Downs Cir,Berrywood Way,Dickerson Pike,2014,"03, 08",3342.1590047452996
+250,SSR,Complete,Vanderbilt Pl,31st Ave S,Natchez Trc,2014,"18, 21",1516.1227370889321
+251,SSR,Complete,Jess Neely Dr,Natchez Trc,25th Ave S,2014,18,1049.694503112904
+252,PBL,Completed,28th Ave N,Charlotte Ave,200' NW of Park Plz,2015,21,1491.9771292409423
+253,BBL,Complete,Hickory Highlands Dr,Rural Hill Rd,Library Entrance,2014,32,1059.0172984548465
+254,BL,Complete,Hickory Highlands Dr,Library Entrance,Bell Rd,2014,32,564.9977617292207
+255,SSR,Complete,E Palestine Ave,Gallatin Pike,Argle Ave,2014,07,1160.794110725101
+256,SSR,Complete,Craighead St,Franklin Pike,Nolensville Pike,2007,17,7214.57634930217
+257,BL,Complete,E Webster St / E Palestine Ave,Gallatin Pike,Argle Ave,2014,07,2608.5612083585356
+258,SSR,Complete,Clifton Ave,40th Ave N,Spruce St,2009,21,9155.573582477991
+259,SSR,Complete,Jo Johnston Ave,Clifton Ave,16th Ave N,2009,"19, 21",3205.659006991741
+260,BBL,Complete,Baugh Rd,Bellevue Rd,Old Harding Pike,2015,22,2604.657464575772
+261,BBL,Complete,Cedarmont Dr,Maxine Dr,Barnes Rd,2015,31,1690.1775272849814
+262,SSR,Complete,Nebraska Ave,48th Ave N,37th Ave N,2014,24,4567.654016109059
+263,SSR,Complete,Elm Hill Pike,Massman Dr,Briley Pkwy,2011,15,6987.079244205587
+264,SSR,Complete,Fatherland St,S 11th St,S 19th St,2012,06,3952.2658214836365
+265,BBL,Completed,Gallatin Pike,Rivergate Station Intersection,One Mile Pkwy,2015,10,6137.244514432343
+266,BBL,Complete,Gallatin Pike,Old Hickory Blvd,Neelys Bend Rd,2017,"08, 09",3098.8569056312263
+267,SSR,Complete,4th Ave N,Harrison St,RR,2015,19,346.50860724928566
+268,BL,Complete,4th Ave N,RR,3rd Ave N,2015,19,667.122167720951
+269,BL,Complete,Connare Dr,N Graycroft Ave,Apple Valley Rd,2015,10,1061.8381985512601
+270,BL,Complete,Connare Dr,Apple Valley Rd,One Mile Pkwy,2015,"08, 10",861.2158803827458
+271,SSR,Complete,Hart Ln,Saunders Ave,Gallatin Pike,2007,"07, 08",2320.6767476764753
+272,BL,Complete,Oak St,Vine St,6th Ave S,2014,17,512.2868743186152
+273,BBL,Complete,Fort Negley Blvd,Bass St,Chestnut St,2014,17,2026.6254138579875
+274,BBL,Complete,Bass St,Fort Negley Blvd,Vine St,2014,17,658.9179633311346
+275,BL,Complete,N 14th St,Eastland Ave,Ordway Pl,2015,06,1202.0981732190655
+276,BBL,Complete,S 4th St,S 5th St,Shelby Ave,2014,06,1763.707272784116
+277,BBL,Complete,Cedarmont Dr,Old Hickory Blvd,Maxine Dr,2015,"27, 31",3550.5245281315047
+278,BL,Complete,Korean Veterans Blvd,4th Ave S,Hermitage Ave/1st Ave S,2015,19,923.7018761077691
+279,BL,Complete,Korean Veterans Blvd,8th Ave S,4th Ave S,2015,19,1656.2039898346504
+280,BL,Complete,Korean Veterans Blvd,1st Ave S,Korean Veterans Memorial Bridge (E of 1st Ave S),2014,19,726.5516399611324
+281,BBL,Complete,Shelby Ave,Interstate Dr,S 4th St,2014,06,666.1568979153252
+282,BBL,Complete,Nashboro Blvd,Flintlock Ct,Bell Rd,2015,29,2744.1116631969953
+283,BL,Complete,Shelby Ave,S 2nd St,Interstate Dr,2014,06,829.8921531310091
+284,SSR,Complete,Church St,9th Ave N,Rosa L Parks Blvd,2015,19,201.79342274685993
+285,BBL,Complete,Gallatin Pike,One Mile Pkwy,Anderson Ln,2015,"08, 09, 10",2211.406134771826
+286,SSR,Complete,40th Ave N,Dr Walter Davis Blvd,Charlotte Ave,2010,"21, 24",4745.61163146186
+287,BL,Complete,Clare Ave,39th Ave N,Albion St,2015,21,1051.1227148165979
+288,BL,Complete,Hickory Plz,Ocala Dr,Old Hickory Blvd,2014,"04, 27",2038.6740382604771
+289,BL,Complete,Ocala Dr,Hickory Plz,Nolensville Pike,2014,27,587.226343861685
+290,SSR,Complete,Hamilton Church Rd/Zelida Ave,Murfreesboro Pike,Bell Rd,2012,"29, 32, 33",6205.592563574889
+291,BBL,Complete,Fatherland St,S 4th St,S 5th St,2014,06,493.81269093708374
+292,BL,Complete,Central Pike,Lebanon Pike,Stoners Bend Dr,2013,14,1306.3376677864944
+293,SSR,Complete,Hobson Pike,County Line,Murfreesboro Pike,2015,"32, 33",34711.75444104623
+294,SSR,Complete,25th Ave N,Charlotte Ave,West End Ave,2006,"18, 21",3419.946720494352
+295,SSR,Complete,Park Plz,31st Ave N,25th Ave N,2005,21,2242.8025313751036
+296,SSR,Complete,22nd Ave N,Charlotte Ave,Elliston Pl,2012,21,1974.985846619952
+297,SSR,Complete,Elliston Pl,25th Ave N,21st Ave N,2010,21,2533.90510391682
+298,BBL,Complete,Murphy Rd,46th Ave N / Sloan Rd,Bowling Ave,2015,24,4207.001219863245
+299,SSR,Complete,46th Ave N,Park Ave,Charlotte Ave,2025,24,411.79638731368544
+300,BBL,Complete,Trousdale Dr,Hill Rd,Hearthstone Ln,2015,04,2106.4014618765427
+301,BL,Complete,Stonebrook Dr,Old Hickory Blvd,Villa View Ct,2015,04,2005.5148006089016
+302,BL,Complete,Fox Ridge Dr,Stonebrook Dr,Oakes Dr,2015,04,1607.0238566444268
+303,BBL,Complete,Oakes Dr,Old Hickory Blvd,Fox Ridge Dr,2015,04,1679.946250053088
+304,BBL,Complete,Gleaves St,Alta Loma Dr,Rivergate Pkwy,2015,10,2122.987353655771
+305,BL,Complete,Jefferson St,5th Ave N,3rd Ave N,2015,19,837.343342584047
+306,SSR,Complete,3rd Ave N,Madison St,Jackson St,2015,19,973.2872830399217
+307,SSR,Complete,3rd Ave N,Jackson St,Harrison St,2015,19,1137.432721620662
+308,BL,Complete,N Graycroft Ave,Slayton Dr,Connare Dr,2015,10,606.9949308768969
+309,BBL,Complete,N Graycroft Ave,550' East of Apple Valley Rd,Slayton Ct,2015,10,942.2252894460933
+310,SSR,Complete,N Graycroft Ave,Apple Valley Rd,550' East of Apple Valley Rd,2015,10,579.1622702121529
+311,SSR,Complete,One Mile Pike,Connare Dr,Gallatin Pike,2015,"08, 10",1328.5226972132286
+312,BL,Complete,Natchez Trc,Blakemore Ave,Blair Blvd,2015,18,2620.9448624160186
+313,SSR,Complete,Castlegate Dr/Countryway Rd,Holder Dr,Anderson Rd,2015,"29, 33",2927.9803218422326
+314,BL,Complete,Hwy 100,Collins Rd,Temple Rd,2015,35,2546.0630289234527
+315,BL,Complete,Todd Preis Dr,Sawyer Brown Rd,Bellevue Rd,2007,22,1910.146811785131
+316,BBL,Complete,Richard Jones Rd,Hillsboro Pike,Oriole Pl,2015,25,2212.5719031975764
+317,BL,Complete,Eulala Dr,Brewer Dr,Ocala Dr,2015,"27, 31",1524.551909462363
+318,BBL,Complete,Amalie Dr,Amalie Ct,Old Hickory Blvd,2015,"04, 27",2490.750183120026
+319,BBL,Complete,Amalie Dr,McMurray Dr,Amalie Ct,2015,27,1200.8989600903897
+320,BBL,Complete,N 14th St,Ordway Pl,Woodland St,2015,06,1112.9670017203887
+321,BBL,Complete,Trousdale Dr,Hearthstone Ln,Hearthstone Ln,2015,04,1096.9485041987975
+322,BL,Complete,Eulala Dr,Ocala Dr,Old Hickory Blvd,2015,"27, 31",2254.176009589659
+323,SSR,Complete,Brewer Dr,Eulala Dr,Tusculum Rd,2015,"27, 30",1087.0611898086847
+324,BL,Complete,Harding Pike,Page Rd,Old Harding Pike,2013,"23, 34",1859.4994382996533
+325,SSR,Complete,Highland Ave,25th Ave S,24th Ave S,2015,18,530.9943980750026
+326,PBL,Complete,1st Ave S,Shelby Ave,Korean Veterans Blvd,2016,19,1169.3242993547926
+327,SSR,Complete,1st Ave S,Broadway,Shelby Ave,2016,19,439.16923940782624
+328,PBL,Complete,S 1st St,Shelby Ave,S 2nd St,2016,06,1464.0744198191765
+329,PBL,,Davidson St,S 2nd St,Park Entrance,2016,06,4143.504655971401
+330,BL,Complete,Long Hollow Pike,Main St,Two Mile Pike,2010,10,484.353358612977
+331,BL,Complete,Timber Valley Dr,E Lake Dr,S Timber Dr,2012,13,1596.7853899378458
+332,SSR,Complete,Timber Valley Dr,Elm Hill Pike,E Lake Dr,2012,13,222.61257277799837
+333,BL,Complete,Hillsboro Pike,Harding Pl,Hemingway Dr,2010,"25, 34",4823.686541285549
+334,BL,Complete,Hillsboro Pike,Hemingway Dr,5836 Hillsboro Pike,2010,34,2501.3812944851747
+335,SSR,Complete,Hillsboro Pike,6242 Hillsboro Pike,County Line,2010,34,3811.057855050874
+336,BL,Complete,Annex Ave,I-40,Mall Entrance,2012,20,679.0791908687332
+337,BL,Complete,Charlotte Pike,Westboro Dr,5845 Charlotte Pike N,2015,20,2454.6854311486063
+338,BL,Complete,Charlotte Ave,46th Ave N,45th Ave N,2021,24,388.62156741247793
+339,BBL,Complete,Charlotte Ave,45th Ave N,42nd Ave N,2021,24,1137.858070661343
+340,BL,Complete,Charlotte Ave,42nd Ave N,38th Ave N,2021,24,2025.0980195293253
+341,BBL,Complete,Charlotte Ave,38th Ave N,33rd Ave N,2021,"21, 24",1977.2553635166337
+342,BL,Complete,Charlotte Ave,28th Ave N,26th Ave N,2011,21,810.8925266978162
+343,BL,Complete,Charlotte Ave,16th Ave N,15th Ave N,2015,"19, 21",286.1940314399008
+344,SSR,Complete,16th Ave N,Capitol Pt,Charlotte Ave,2011,"19, 21",318.7825869787153
+345,BL,Complete,Harrison St,10th Ave N,W of Rosa L Parks Blvd,2011,19,700.0349309238842
+346,SSR,Complete,24th Ave S,Fairfax Ave,Blair Blvd,2012,18,1368.2353346691611
+347,BL,Complete,24th Ave S,Blakemore Ave,Fairfax Ave,2015,18,1260.464132503104
+348,BL,Complete,Gallatin Pike,Hart Ln,W Kirkland Ave,2016,"07, 08",1292.711926102183
+349,BL,Complete,Hearthstone Ln,Trousdale Dr,Old Hickory Blvd,2016,04,1665.1297524076103
+350,SSR,Complete,Old Hickory Blvd,Hermitage Woods Dr,Central Pike,2011,"12, 14",1478.5189999268066
+351,BL,Complete,Brook View Estates Dr,Ocala Dr,Benzing Rd,2016,"30, 31",2351.1103374444156
+352,BBL,Complete,Brook View Estates Dr,Benzing Rd,Bell Rd,2016,31,550.4006754079992
+353,BL,Complete,Blackwood Dr,Fitzpatrick Rd,3216 Blackwood Dr,2017,13,2613.4247741798986
+354,BL,Complete,Rice Rd,Edge O Lake Dr,Rural Hill Rd,2017,"28, 32",2771.904822054274
+355,BL,Complete,Shelby Ave,S 11th St,S 14th St,2016,06,1185.0548615622565
+356,BL,Complete,Division St,Round-about,19th Ave S,2016,19,1544.6060186055001
+357,BL,Complete,51st Ave N,Wyoming Ave,Nebraska Ave,2016,24,778.4979555130963
+358,SSR,Complete,Hickoryview Dr,Hickory View Apt,Nolensville Pike,2016,27,1215.6594842098198
+359,SSR,Complete,Hamilton Ave,8th Ave S,Martin St,2016,17,2568.597362213817
+360,WOL,Complete,Bowling Ave,Whitworth Blvd,Woodlawn Dr,2010,24,1842.7889934963437
+361,BBL,Complete,Bowling Ave,West End Ave,Whitworth Blvd,2017,24,2089.315823816817
+362,BL,Complete,Edge O Lake Dr,Murfreesboro Pike,Pebble Creek Dr,2017,"28, 29, 32",3528.2269899553485
+363,BL,Complete,Hickory Park Dr,Sycamore Ct,N of Rivendell Ct,2017,32,1532.6037995962117
+364,BBL,Complete,Hickory Park Dr,N of Rivendell Ct,Shire Dr,2017,32,1538.0669306863374
+365,SSR,Complete,Hickory Park Dr,Bell Rd,Sycamore Ct,2017,32,1273.8682619015253
+366,SSR,Complete,Division St,Lyle Ave,19th Ave S,2016,19,370.7635059905233
+367,SSR,Complete,Hickory Park Dr,Shire Dr,Dead End,2017,32,809.8873866268485
+368,BBL,Complete,Pebble Creek Dr,Canyon Ridge Ct,Edge O Lake Dr,2017,32,692.412186256536
+369,SSR,Complete,Blackwood Dr,3216 Blackwood Dr,Bell Rd,2017,"13, 14",1360.4020113733077
+370,BL,Complete,Nolensville Pike,Polk Ave,I-440 Ramp,2017,17,2412.4180075695967
+371,PBL,Complete,Nolensville Pike,McNally Dr,Elysian Fields Rd,2017,"16, 26",2940.35168517122
+372,PBL,Complete,11th Ave S,Broadway,Laurel St,2015,19,1227.4725961134259
+373,SSR,Complete,11th Ave N,Charlotte Ave,Church St,2015,19,1151.1150971073057
+374,PBL,Complete,11th Ave N,Church St,Broadway,2015,19,1090.4050321685716
+375,SSR,Complete,Park Ave,46th Ave N,42nd Ave N,2013,24,1531.56623954106
+376,SSR,Complete,42nd Ave N,Charlotte Ave,Park Ave,2013,24,405.96266764021345
+377,PBL,Complete,Division St/Ash St,8th Ave S,Lafayette St,2017,19,2323.1584780058097
+378,SSR,Complete,Division St/Ash St,Lafayette St,2nd Ave S,2017,19,875.1714834516465
+379,PBL,Complete,16th Ave S / Music Sq E,Division St,Wedgewood Ave,2017,"17, 18, 19",5887.636799634138
+380,PBL,Complete,17th Ave S / Music Sq W,Division St,18th Ave S,2017,"17, 18, 19",6212.363388651043
+381,PBL,Complete,Magnolia Blvd,21st Ave S,18th Ave S,2017,18,1278.3380301355196
+382,PBL,Complete,Magnolia Blvd,16th Ave S,18th Ave S,2017,"17, 18",1130.6506177393626
+383,BBL,Complete,18th Ave S,Magnolia Blvd,Portland Ave,2017,18,934.5576763150889
+384,BL,Complete,Horton Ave,18th Ave S,16th Ave S,2017,17,757.531377729347
+385,BL,Complete,Greenfield Ave,Katherine St,Golf St,2017,07,1503.6035968947144
+386,PBL,Complete,Greenfield Ave,Gallatin Pike,Walgreens driveway,2024,07,375.0329425196205
+387,SSR,Complete,Greenfield Ave,Walgreens driveway,Katherine St,2017,07,1000.2118081122858
+388,BL,Complete,Natchez Trc,Westwood Ave,Woodlawn Dr,2015,18,428.51834874436344
+389,BBL,Complete,Gallatin Pike,Walton Ln,Briley Pkwy,2017,"07, 08",
+390,BL,Complete,Gallatin Pike,Due West Ave,Lakewood Dr,2017,"07, 08",1421.85555350807
+391,BL,Complete,Gallatin Pike,Neelys Bend Rd,E Webster St,2017,"07, 08",1812.1309928003875
+392,PBL,Complete,10th Ave S,S Douglas Ave,959 Aly,2018,17,3169.1146859875275
+393,BL,Complete,10th Ave S,Acklen Ave,S Douglas Ave,2018,17,1117.5268550342498
+394,BL,Complete,10th Ave S,959 Aly,Kirkwood Ave,2018,17,801.777998022755
+395,SSR,Complete,Portland Ave,21st Ave S,18th Ave S,2005,18,1200.3004206336282
+396,BL,Complete,12th Ave N,Jefferson St,Jo Johnston Ave,2019,19,3099.2605525270783
+397,BL,Complete,Walton Ln,Saunders Ave,Gallatin Pike,2019,"07, 08",2350.6006842674633
+398,PBL,Complete,Riverside Dr,Golf St,Huntleigh Dr,2019,"06, 07",14259.857717960287
+399,PBL,Complete,Arthur Ave,Buchanan St,Monroe St,2020,"19, 21",3265.8201756224726
+400,SSR,Complete,Glen Echo Rd,Hillsboro Pike,Hillmont Dr,2019,25,1330.1203145839152
+401,BL,Complete,Glen Echo Rd,Hillmont Dr,Belmont Blvd,2019,25,2139.4659676698275
+402,BL,Complete,Porter Rd,Riverside Dr,McKennie Ave,2006,"06, 07",2682.8265406186247
+403,PBL,Complete,Porter Rd,Rosebank Ave,Franklin Ave,2020,"06, 07",1644.4511778067367
+404,PBL,Completed,Division St,12th Ave S,8th Ave S,2026,19,1653.1795004603437
+405,BL,Completed,Nolensville Pike,Old Hickory Blvd,Hickoryview Dr,2018,"04, 27",1241.7595053100308
+406,BL,Complete,S 19th St,Holly St,Russell St,2020,06,381.14130342122235
+407,BL,Complete,Mountain Springs Rd,Summercrest Trl,Murfreesboro Pike,2019,"32, 33",2794.6107522208317
+408,BL,Complete,Garfield St,7th Ave N,5th Ave N,2021,19,857.2482609464453
+409,PBL,Complete,Garfield St,5th Ave N,3rd Ave N,2021,19,834.5566367858559
+410,SSR,Complete,Dr Db Todd Jr Blvd,Morena St,Albion St,2021,"19, 21",391.08838341758565
+411,PBL,Complete,Belmont Blvd,18th Ave S,Ashwood Ave,2022,18,1908.0909057185177
+412,PBL,Complete,Division St,Music Row Roundabout,233 Alley,2020,19,914.498574725247
+413,BL,Complete,Division St,233 Alley,Pine St,2020,19,252.85999605734148
+414,BBL,Complete,Division St,Pine St,1201 Division St,2020,19,722.8142311784791
+415,BL,Complete,Division St,1201 Division St,12th Ave S,2020,19,228.98757598200228
+416,PBL,Complete,Porter Rd,Franklin Ave,Eastland Ave,2020,"06, 07",508.12303499920085
+417,PBL,Complete,Porter Rd,Greenwood Ave,Rosebank Ave,2020,"06, 07",499.48644959258695
+418,PBL,Complete,Porter Rd,McKennie Ave,Greenwood Ave,2020,"06, 07",449.1153312198386
+419,BBL,Completed,28th Ave N,Charlotte Ave,Felicia St,2021,21,394.4501488323665
+420,BL,Completed,28th Ave N,Felicia St,Herman St,2021,21,2457.017561377902
+421,PBL,Completed,28th Ave N,Albion St,Clarksville Pike,2021,21,9134.89417326455
+422,SSR,Complete,Charlotte Ave,54th Ave N,51st Ave N,2006,24,1531.6880850633672
+423,BL,Complete,Charlotte Ave,51st Ave N,50th Ave N,2021,24,400.200303038992
+424,SSR,Complete,Charlotte Ave,31st Ave N/City Ave,28th Ave N,2011,"21, 24",804.4096586172003
+425,PBL,Completed,E Trinity Ln,Dickerson Pike,Pittway Dr,2026,05,5146.326843377781
+426,PBL,Completed,E Trinity Ln,Keeling Ave,Gallatin Pike,2026,"05, 07",1752.462147694108
+427,BL,Completed,E Trinity Ln,Pittway Dr,Keeling Ave,2022,05,2020.5541520805432
+428,BL,Completed,Jonquil Dr,Harding Pk,Paragon Mills Rd,2022,26,3034.311378386752
+429,BL,Complete,Cahal Ave,Scott Ave,Porter Rd,2022,07,2357.908164948135
+430,BL,Completed,Nesbitt Ln,Heritage Dr,Gallatin Pike,2022,"08, 09",2575.587054391562
+431,PBL,Completed,Heritage Dr,Old Hickory Blvd,Nesbitt Ln,2022,08,4494.33058795247
+432,BL,Completed,Lindsley Ave,3rd Ave S,2nd Ave S,2022,19,325.8877545991371
+433,BL,Completed,3rd Ave S,Lindsley Ave,Ash St,2022,19,346.96112105808226
+434,PBL,Completed,Monroe St,11th Ave N,10th Ave N,2022,19,1233.4521857411924
+435,BL,Completed,Monroe St,10th Ave N,9th Ave N,2022,19,472.9470479215207
+436,PBL,Completed,Monroe St,9th Ave N,Rosa L Parks Blvd,2022,19,350.0022560407255
+437,SSR,Completed,Monroe St,5th Ave N,1st Ave N,2022,19,1613.5446560491375
+438,SSR,Completed,Dr Martin Luther King Jr Blvd,Rosa L Parks Blvd,5th Ave N,2022,19,1233.9912136787757
+439,BL,Completed,Dr Martin Luther King Jr Blvd,12th Ave N,N Gulch Greenway,2022,19,914.635287239113
+440,BL,Completed,Dr Martin Luther King Jr Blvd,George L Davis Blvd,12th Ave N,2022,19,309.3138825367978
+441,BL,Completed,Dr Martin Luther King Jr Blvd,Rosa L Parks Blvd,Rosa L Parks Blvd,2022,19,206.2936708341009
+442,PBL,Completed,Dr Martin Luther King Jr Blvd,10th Ave N,Rosa L Parks Blvd,2022,19,520.3406999012759
+443,PBL,Completed,Dr Martin Luther King Jr Blvd,N Gulch Greenway,10th Ave N,2022,19,420.3305646866984
+444,PBL,Completed,Freelands Station Rd,Cumberland River Greenway,Mainstream Dr,2020,02,2090.9211595413735
+445,PBL,Completed,Wedgewood Ave,Rains Ave,Craighead St,2022,17,1791.586482091645
+446,BL,Completed,3rd Ave N,Monroe St,Van Buren St,,19,1392.9785064873113
+447,BBL,Completed,28th Ave N,Herman St,I-40E Ramp,2021,21,542.6215388196316
+448,BL,Completed,28th Ave N,I-40E Ramp,Albion St,2021,21,422.5116357110107
+449,PBL,Completed,Hill Rd/San Marcos Dr,Hill Road Cir,Broadwell Dr,2017,26,2454.9118468297997
+450,SSR,Completed,Church St,Rosa L Parks Ave,2nd Ave N,2024,19,2332.2139598557656
+451,SSR,Completed,Poston Ave,31st Ave N,27th Ave N,2024,21,1424.4912532881185
+452,SSR,Completed,31st Ave N,West End Ave,Hedrick St,2011,21,384.9739617145347
+453,SSR,Completed,Bixler Ave,Dupont Ave,Anderson Ln,2024,09,2511.0063819804163
+454,SSR,Completed,Dupont Ave,Gallatin Pike,Madison Park Parking Lot,2024,09,2496.8274913024043
+455,BL,Completed,Monroe St,Rosa L Parks Blvd,5th Ave N,2022,19,1204.170422597984
+456,BL,Completed,Brick Church Pike,Masonwood Dr,Village Trl,2024,3,1964.884133302444
+457,PBL,Completed,Apache Trail,Shihmen Dr,Haywood Ln,2024,"33, 27, 30",6938.275710821391
+458,PBL,Completed,Bart Dr,Coleridge Dr,Shihmen Dr,2024,"27, 33",5135.650313772559
+459,PBL,Complete,South St,Music Sq E,8th Ave S,2024,"17, 19",3943.8320177299925
+460,SSR,Completed,Cunniff Pkwy,Dickerson Pike,W Campbell Rd,2024,3,4612.524063708152
+461,BL,Completed,Welshwood Dr,Corning Dr,Nolensville Pike,2024,26,1558.7769209495834
+462,SSR,Completed,Douglas Ave,N 12th St,Scott Ave,2024,06,2998.0781306299787
+463,PBL,Completed,Douglas Ave,Gallatin Ave,N 12th St,2024,"05, 06",334.8062185160325
+464,BL,Completed,Clarksville Pike,Briley Pkwy,Ashland City Hwy,2024,"01, 02",11313.322278842765
+465,BL,Completed,Nolensville Pike,Swiss Ave,Old Hickory Blvd,2018,"04, 27",1069.442192632708
+466,BL,Completed,Beech Bend Dr,Harpeth Bend Dr,Footpath Ter,2007,22,1718.3775463429536
+467,BL,Completed,Gallatin Pike,Myatt Dr,Rivergate Station Intersection,2015,10,886.9139411399495
+468,PBL,Completed,51st Ave N,Charlotte Ave,Park Ave,2025,24,283.94834843230234
+469,PBL,Completed,Demonbreun St,14th Ave S,12th Ave S,2015,19,758.4771601722297
+470,SSR,Completed,McMillin St,Church St,Charlotte Ave,2025,19,1254.6709235717412
+471,SSR,Completed,McNairy Ln,Woodmont Blvd,Battlefield Dr,2025,25,1919.1181562954973
+472,PBL,Completed,Bell Rd,Smith Springs Rd,Reelfoot Dr,2025,13,17350.91739836979
+473,BL,Completed,Bell Rd,Reelfoot Dr,Elm Hill Pike,2025,"12, 13",1876.767676064731
+474,PBL,Completed,Bell Rd,Blackwood Dr / Bell Rd,925' South of Bell Rd,2025,"12, 13",740.08349478803
+475,SSR,Completed,46th Ave N,Murphy Rd,Colorado Ave,2025,24,506.8698793475455
+476,PBL,Completed,46th Ave N,Utah Ave,Park Ave,2025,24,2433.3640308148265
+477,BL,Completed,46th Ave N,1191 Aly,1192 Aly,2025,24,392.6683041474416
+478,PBL,Completed,46th Ave N,1192 Aly,Utah Ave,2025,24,188.95436356028245
+479,PBL,Completed,Alta Loma Rd,Gleaves St,Gallatin Pike,2025,10,999.4088096825959
+480,BBL,Completed,Beech Bend Dr,Footpath Ter,Old Harding Pike,2025,22,2639.082287920732
+481,PBL,Completed,Jefferson St/N 1st St,3rd Ave N,Grace St,2025,"19, 5",7014.915126012252
+482,SSR,Completed,Dickerson Pike,Spring St,N 1st St,2007,05,2155.8203963932056
+483,PBL,Completed,46th Ave N,Colorado Ave,Nebraska Ave,2025,24,193.3245666871747
+484,SSR,Completed,Dickerson Pike,Spring St,N 1st St,2007,05,2110.2120097545567
+485,BL,Completed,Alta Loma Rd,CSX Bridge,Gleaves St,2025,10,665.6105492800788
+486,PBL,Completed,Apple Valley Rd,Fins Dr,Connare Dr,2026,10,948.0124726909111
+487,SSR,Completed,Apple Valley Rd,W Campbell Rd,350' East of Primm Dr,2026,"03, 10",4201.436911560953
+488,BBL,Completed,Apple Valley Rd,Nelson Dr,Fins Dr,2026,10,251.86137768160035
+489,PBL,Completed,Apple Valley Rd,350' East of Primm Dr,Nelson Dr,2026,10,320.4744852039349
+490,SSR,Completed,Kentucky Ave,Morrow Rd,48th Ave N,2023,20,3683.2910466483836
+491,SSR,Completed,49th Ave N,Indiana Ave,,2023,20,1222.3110799538215
+492,SSR,Completed,52nd Ave N,Georgia Ave,Kentucky Ave,2023,20,1657.4788519910405
+493,PBL,Completed,Georgia Ave,Delray Dr,51st Ave N,2023,20,1487.3729305912616
+494,SSR,Completed,Indiana Ave,Morrow Rd,47th Ave N,2023,20,2785.923538969113
+495,SSR,Completed,Nall Ave,Deal Ave,Robertson Ave,2023,20,486.28127097368457
+496,SSR,Completed,Gale Ln,Belmont Blvd,975' SW of 8th Ave S,2024,"17, 18",6216.632847401475
+497,PBL,Completed,31st Ave N,Hedrick St,Park Plz,2024,"21, 24",2568.491998667467
+498,PBL,Completed,28th Ave N,Park Plz,200' NW of Park Plz,2024,21,195.59057399567314
+499,PBL,Completed,Lebanon Pike,Stones River Rd,Highland View Dr,2024,"11, 14",10033.925581319127
+500,PBL,Completed,Lebanon Pike,Highland View Dr,Matterhorn Dr,2024,"11, 14",9702.688703999944
+501,PBL,Completed,Great Circle Rd,Vantage Way,Cumberland River Greenway,2024,02,1964.4218413434662
+502,PBL,,Edge O Lake Dr,Murfreesboro Pike,Bell Rd,2024,"28, 29",4219.961337683779
+503,SSR,Completed,S 14th St,Woodland St,Davidson St,2024,06,5213.341509412244
+504,BL,,Edge O Lake Dr,Bell Rd,Rural Hill Rd,2024,"28, 29",782.852719367445
+505,BL,Completed,Gale Ln,975' SW of 8th Ave S,8th Ave S,2024,"17, 26",1013.020902607177
+506,BL,Completed,Coleridge Dr,Tusculum Rd,Bart Dr,2024,"27, 33",907.119204850019
+507,PBL,Completed,Demonbreun St,Buddy Killen Cir,14th Ave S,2024,19,1005.5439254407282
+508,BL,Completed,Tusculum Rd,Nolensville Pike,Raywood Ln,2026,27,637.7123099893638
+509,SSR,Complete,20th Ave S,Linden Ave,Magnolia Blvd,2026,18,2484.2294489636347
+510,PBL,,Davidson St,S 2nd St,Park Entrance,2016,06,2299.4326752788056

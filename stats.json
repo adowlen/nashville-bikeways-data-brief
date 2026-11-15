@@ -1,0 +1,314 @@
+{
+  "dataset": "Nashville Bikeways (Bikeways_view, layer 0)",
+  "snapshot_date": "2026-11-15",
+  "rows": 510,
+  "server_count": 510,
+  "unit": "one row = one bikeway segment in the published Bikeways view",
+  "segments_with_length": 499,
+  "segments_blank_length": 11,
+  "total_miles_recorded": 314.93,
+  "distinct_streets_raw": 244,
+  "by_type": {
+    "BBL": {
+      "label": "Buffered Bike Lane",
+      "segments": 52,
+      "segment_share_pct": 10.2,
+      "segments_with_length": 51,
+      "miles": 22.28,
+      "mile_share_pct": 7.07
+    },
+    "BL": {
+      "label": "Bike Lane",
+      "segments": 178,
+      "segment_share_pct": 34.9,
+      "segments_with_length": 172,
+      "miles": 94.95,
+      "mile_share_pct": 30.15
+    },
+    "PBL": {
+      "label": "Protected Bike Lane",
+      "segments": 72,
+      "segment_share_pct": 14.12,
+      "segments_with_length": 72,
+      "miles": 45.64,
+      "mile_share_pct": 14.49
+    },
+    "SSR": {
+      "label": "Signed Shared Route",
+      "segments": 194,
+      "segment_share_pct": 38.04,
+      "segments_with_length": 191,
+      "miles": 143.35,
+      "mile_share_pct": 45.52
+    },
+    "WOL": {
+      "label": "Wide Outside Lane",
+      "segments": 14,
+      "segment_share_pct": 2.75,
+      "segments_with_length": 13,
+      "miles": 8.72,
+      "mile_share_pct": 2.77
+    }
+  },
+  "protected_PBL": {
+    "miles": 45.64,
+    "mile_share_pct": 14.49,
+    "segments": 72
+  },
+  "non_protected": {
+    "types": [
+      "BBL",
+      "BL",
+      "SSR",
+      "WOL"
+    ],
+    "miles": 269.3,
+    "mile_share_pct": 85.51
+  },
+  "ssr_vs_pbl_miles_ratio": 3.14,
+  "status_raw": {
+    "Complete": 414,
+    "Completed": 92,
+    "nan": 4
+  },
+  "status_normalized": {
+    "completed_status_segments": 506,
+    "blank_status_segments": 4,
+    "completed_share_of_510_pct": 99.22
+  },
+  "dated_segments": 509,
+  "year_min": 2004,
+  "year_max": 2026,
+  "by_era": {
+    "2004-2009": {
+      "segments": 102,
+      "miles": 68.3
+    },
+    "2010-2014": {
+      "segments": 146,
+      "miles": 109.32
+    },
+    "2015-2019": {
+      "segments": 142,
+      "miles": 82.27
+    },
+    "2020-2026": {
+      "segments": 119,
+      "miles": 54.78
+    }
+  },
+  "by_era_type": {
+    "2004-2009": {
+      "BBL": {
+        "segments": 1,
+        "miles": 0.09
+      },
+      "BL": {
+        "segments": 24,
+        "miles": 11.64
+      },
+      "SSR": {
+        "segments": 70,
+        "miles": 52.41
+      },
+      "WOL": {
+        "segments": 7,
+        "miles": 4.17
+      }
+    },
+    "2010-2014": {
+      "BBL": {
+        "segments": 11,
+        "miles": 5.24
+      },
+      "BL": {
+        "segments": 58,
+        "miles": 39.96
+      },
+      "SSR": {
+        "segments": 70,
+        "miles": 59.58
+      },
+      "WOL": {
+        "segments": 7,
+        "miles": 4.54
+      }
+    },
+    "2015-2019": {
+      "BBL": {
+        "segments": 29,
+        "miles": 13.61
+      },
+      "BL": {
+        "segments": 62,
+        "miles": 34.51
+      },
+      "PBL": {
+        "segments": 19,
+        "miles": 12.56
+      },
+      "SSR": {
+        "segments": 32,
+        "miles": 21.59
+      }
+    },
+    "2020-2026": {
+      "BBL": {
+        "segments": 11,
+        "miles": 3.34
+      },
+      "BL": {
+        "segments": 33,
+        "miles": 8.58
+      },
+      "PBL": {
+        "segments": 53,
+        "miles": 33.08
+      },
+      "SSR": {
+        "segments": 22,
+        "miles": 9.78
+      }
+    }
+  },
+  "pbl_by_era": {
+    "2004-2009": 0,
+    "2010-2014": 0,
+    "2015-2019": 19,
+    "2020-2026": 53
+  },
+  "pbl_completed_2020_2026_share_of_pbl_pct": 73.61,
+  "top_streets_by_miles": [
+    {
+      "OnStreetName": "Old Hickory Blvd",
+      "segments": 7,
+      "miles": 19.59,
+      "types": "BL,PBL,SSR"
+    },
+    {
+      "OnStreetName": "Hwy 100",
+      "segments": 5,
+      "miles": 12.17,
+      "types": "BL,SSR"
+    },
+    {
+      "OnStreetName": "Charlotte Pike",
+      "segments": 8,
+      "miles": 12.01,
+      "types": "BL,SSR"
+    },
+    {
+      "OnStreetName": "Murfreesboro Pike",
+      "segments": 6,
+      "miles": 9.58,
+      "types": "BBL,BL"
+    },
+    {
+      "OnStreetName": "Dickerson Pike",
+      "segments": 6,
+      "miles": 7.94,
+      "types": "SSR"
+    },
+    {
+      "OnStreetName": "Whites Creek Pike",
+      "segments": 3,
+      "miles": 7.13,
+      "types": "BL,SSR"
+    },
+    {
+      "OnStreetName": "Nolensville Pike",
+      "segments": 8,
+      "miles": 7.07,
+      "types": "BBL,BL,PBL,SSR"
+    },
+    {
+      "OnStreetName": "Bell Rd",
+      "segments": 9,
+      "miles": 6.96,
+      "types": "BL,PBL,SSR"
+    },
+    {
+      "OnStreetName": "Ashland City Hwy",
+      "segments": 1,
+      "miles": 6.79,
+      "types": "BL"
+    },
+    {
+      "OnStreetName": "Hobson Pike",
+      "segments": 1,
+      "miles": 6.57,
+      "types": "SSR"
+    }
+  ],
+  "district_segments_multi": 160,
+  "district_segments_single": 350,
+  "district_mentions_top10": {
+    "19": 102,
+    "06": 50,
+    "21": 48,
+    "24": 42,
+    "18": 41,
+    "17": 35,
+    "08": 26,
+    "07": 26,
+    "10": 23,
+    "27": 22
+  },
+  "district_mentions_distinct": 37,
+  "human_scale_derived": {
+    "protected": "about 1 in 7 recorded bikeway miles is a protected bike lane (45.64 of 314.93 miles, derived)",
+    "ssr_vs_pbl": "about 3.1 miles of signed shared route for every 1 mile of protected bike lane (143.35 / 45.64, derived)"
+  },
+  "fusion_crash_layer": {
+    "method": "street-name match only: a reported crash counts as name-matched when either side of its Street_Address, after house-number stripping and suffix normalization to the crash-address form, equals a normalized Bikeways OnStreetName. This is NOT a segment or proximity join: bikeway segments are specific stretches of those streets, so the name match is an upper bound on segment-level presence and is never printed as on-a-bikeway crashes.",
+    "crash_layer_rows_known_counts": 222902,
+    "addr_present": 222279,
+    "addr_missing": 623,
+    "addr_present_share_pct": 99.72,
+    "all_crashes_name_matched": 100306,
+    "all_crashes_name_matched_share_pct": 45.13,
+    "pedalcycle_crashes_total_known": 530,
+    "pedalcycle_addr_present": 529,
+    "pedalcycle_name_matched": 343,
+    "pedalcycle_name_matched_share_pct": 64.84,
+    "pedalcycle_injuries_total": 517,
+    "pedalcycle_fatalities_total": 8,
+    "pedalcycle_injury_or_fatal_crashes": 490,
+    "pedalcycle_injury_or_fatal_name_matched": 320,
+    "injury_or_fatal_rate_name_matched_pct": 32.65,
+    "injury_or_fatal_rate_not_matched_pct": 29.14,
+    "pedalcycle_share_of_crashes_name_matched_pct": 0.342,
+    "pedalcycle_share_of_crashes_not_matched_pct": 0.152,
+    "bw_street_names_normalized": 242,
+    "bw_street_names_matched": 224,
+    "bw_street_names_unmatched": [
+      "16TH AV S MUSIC SQ E",
+      "17TH AV S MUSIC SQ W",
+      "APACHE TRAIL",
+      "BUCHANAN GARFIELD ST",
+      "CASTLEGATE DR COUNTRYWAY RD",
+      "DIVISION ST ASH ST",
+      "E WEBSTER ST E PALESTINE AV",
+      "HAMILTON CHURCH RD ZELIDA AV",
+      "HARDING PK HWY 70 S",
+      "HIGHLAND AV",
+      "HILL RD SAN MARCOS DR",
+      "JAMES ROBERTSON PKWY ROSA L PARKS BLVD",
+      "JEFFERSON ST N 1ST ST",
+      "LION S HEAD SHOPPING CENTER",
+      "ONE MILE PKE",
+      "PLEASANT VIEW RD",
+      "PRIVATE SHELBY PARK",
+      "STONEBROOK DR"
+    ],
+    "crash_window": "2019-01-01 to 2026-10-31 as published in the 2026-11-02 Nashville Traffic Accidents brief (cleaned warehouse layer)"
+  },
+  "hin_street_overlap": {
+    "method": "street-name overlap only between Bikeways OnStreetName and HIN full_name, both normalized the same way; a bikeway segment on a street that also carries HIN segments - not a segment-level overlap.",
+    "hin_street_names_normalized": 175,
+    "bw_segments_on_hin_named_streets": 214,
+    "bw_miles_on_hin_named_streets": 159.15,
+    "bw_miles_on_hin_named_share_pct": 50.53,
+    "bw_distinct_streets_on_hin": 70
+  }
+}

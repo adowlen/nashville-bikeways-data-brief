@@ -1,0 +1,2 @@
+45.6 of 314.9 - only 14.5% of Nashville's recorded bikeway miles are protected lanes; 45.5% are signed shared routes
+Source: Nashville Bikeways layer, 510 segments (pulled Nov 15, 2026) - recorded miles, 499 length-carrying segments

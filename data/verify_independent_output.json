@@ -1,0 +1,144 @@
+{
+  "checks": 23,
+  "passed": 23,
+  "detail": [
+    {
+      "check": "rows",
+      "expected": 510,
+      "got": 510,
+      "pass": true
+    },
+    {
+      "check": "segments with length",
+      "expected": 499,
+      "got": 499,
+      "pass": true
+    },
+    {
+      "check": "total miles rounded",
+      "expected": 314.93,
+      "got": 314.93,
+      "pass": true
+    },
+    {
+      "check": "SSR segments",
+      "expected": 194,
+      "got": 194,
+      "pass": true
+    },
+    {
+      "check": "SSR miles rounded",
+      "expected": 143.35,
+      "got": 143.35,
+      "pass": true
+    },
+    {
+      "check": "BL segments",
+      "expected": 178,
+      "got": 178,
+      "pass": true
+    },
+    {
+      "check": "BL miles rounded",
+      "expected": 94.95,
+      "got": 94.95,
+      "pass": true
+    },
+    {
+      "check": "PBL segments",
+      "expected": 72,
+      "got": 72,
+      "pass": true
+    },
+    {
+      "check": "PBL miles rounded",
+      "expected": 45.64,
+      "got": 45.64,
+      "pass": true
+    },
+    {
+      "check": "BBL segments",
+      "expected": 52,
+      "got": 52,
+      "pass": true
+    },
+    {
+      "check": "BBL miles rounded",
+      "expected": 22.28,
+      "got": 22.28,
+      "pass": true
+    },
+    {
+      "check": "WOL segments",
+      "expected": 14,
+      "got": 14,
+      "pass": true
+    },
+    {
+      "check": "WOL miles rounded",
+      "expected": 8.72,
+      "got": 8.72,
+      "pass": true
+    },
+    {
+      "check": "status Complete",
+      "expected": 414,
+      "got": 414,
+      "pass": true
+    },
+    {
+      "check": "status Completed",
+      "expected": 92,
+      "got": 92,
+      "pass": true
+    },
+    {
+      "check": "status blank",
+      "expected": 4,
+      "got": 4,
+      "pass": true
+    },
+    {
+      "check": "completed normalized",
+      "expected": 506,
+      "got": 506,
+      "pass": true
+    },
+    {
+      "check": "dated segments",
+      "expected": 509,
+      "got": 509,
+      "pass": true
+    },
+    {
+      "check": "PBL dated 2020-2026",
+      "expected": 53,
+      "got": 53,
+      "pass": true
+    },
+    {
+      "check": "PBL dated before 2015",
+      "expected": 0,
+      "got": 0,
+      "pass": true
+    },
+    {
+      "check": "distinct streets raw",
+      "expected": 244,
+      "got": 244,
+      "pass": true
+    },
+    {
+      "check": "multi-district segments",
+      "expected": 160,
+      "got": 160,
+      "pass": true
+    },
+    {
+      "check": "top street Old Hickory Blvd miles rounded",
+      "expected": 19.59,
+      "got": 19.59,
+      "pass": true
+    }
+  ]
+}

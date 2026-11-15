@@ -1,0 +1,6 @@
+type,label,segments,segment_share_pct,segments_with_length,miles,mile_share_pct
+BBL,Buffered Bike Lane,52,10.2,51,22.28,7.07
+BL,Bike Lane,178,34.9,172,94.95,30.15
+PBL,Protected Bike Lane,72,14.12,72,45.64,14.49
+SSR,Signed Shared Route,194,38.04,191,143.35,45.52
+WOL,Wide Outside Lane,14,2.75,13,8.72,2.77

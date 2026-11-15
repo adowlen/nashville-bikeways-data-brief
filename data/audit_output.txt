@@ -1,0 +1,22 @@
+rows=510
+Counter BikewayType: {'SSR': 194, 'BL': 178, 'PBL': 72, 'BBL': 52, 'WOL': 14} distinct=5
+Counter Status: {'Complete': 414, 'Completed': 92, '': 4} distinct=3
+Counter District: {'19': 75, '06': 36, '24': 28, '18': 21, '21': 21, '10': 18, '17': 15, '25': 12, '19, 21': 12, '20': 12, '01': 10, '32': 9, '13': 9, '07, 08': 9, '05': 9, '07': 9, '17, 18': 7, '26': 7, '06, 07': 7, '27': 6, '08': 6, '02': 6, '04': 6, '21, 24': 5, '35': 5, '22': 5, '17, 19': 4, '18, 21': 4, '32, 33': 4, '29': 4, '08, 09': 4, '23, 34': 4, '05, 06': 4, '04, 27': 4, '17, 18, 19': 3, '27, 33': 3, '14': 3, '09': 3, '15': 3, '16, 17': 3} distinct=106
+Counter YearCompleted: {'2015': 78, '2012': 43, '2007': 36, '2017': 34, '2014': 29, '2024': 28, '2013': 26, '2010': 25, '2011': 23, '2022': 23, '2021': 19, '2004': 18, '2016': 17, '2005': 16, '2025': 16, '2006': 15, '2020': 14, '2008': 14, '2026': 11, '2023': 8, '2019': 8, '2018': 5, '2009': 3, '': 1} distinct=24
+BikewayType: blank=0
+Status: blank=4
+OnStreetName: blank=0
+FromStreetName: blank=0
+ToStreetName: blank=1
+YearCompleted: blank=1
+District: blank=0
+Shape__Length: blank=11
+Shape__Length: present=499 blank=11 min_ft=179.75189524270607 max_ft=37665.20133058336 sum_ft=1662856.34 sum_mi=314.93
+Length unit: layer metadata geometryProperties.units = esriFeet for Shape__Length; miles = feet / 5280 in every figure.
+Sentinel rule: Shape__Length blank on 11 segments (OBJECTIDs ['13', '16', '26', '34', '39', '45', '70', '80', '224', '233', '389']) is a missing length, NOT zero: those segments stay in every segment count and are excluded only from mileage denominators (499 length-carrying segments). Polarity sample EXCLUDED from mileage: those 11, all Status Complete, types BL 6 / SSR 3 / WOL 1 / BBL 1 - no PBL segment is excluded, so the protected mileage share is not understated by the exclusion; if anything the non-protected mileage is slightly understated. Polarity sample INCLUDED in segment counts: the same 11 OBJECTIDs appear in all segment totals (510).
+Status rule: raw Status values are Complete 414, Completed 92, blank 4. Complete and Completed are the same completed status under two spellings (the duplication trap flagged when the lead was verified 2026-11-12); the brief normalizes them to 506 completed-status segments and reports the 4 blank-status segments separately - blanks are never counted as completed or as incomplete.
+YearCompleted rule: blank on 1 segment (OBJECTID ['446']); that segment stays in segment and mileage totals and is excluded only from era counts (509 dated segments). No zero or sentinel years: recorded range 2004-2026.
+District rule: District is a free-text list; 160 of 510 segments list more than one district, so no mileage-by-district figure is printed (the layer gives no length split). District figures in the brief are segment mentions: a segment counts once for each district it lists.
+Unit agreement: mileage shares = type-group miles / total recorded miles (314.93, 499 length-carrying segments); segment shares = segments / 510; crash shares = crashes / crashes on the stated crash-layer population, counts printed with every rate. No figure mixes the segment and mileage denominators without labeling which it uses.
+OBJECTID distinct: 510 of 510; OnStreetName distinct raw: 244
+Join hygiene (fusion): street-name match (not proximity, not segment) to the 2026-11-02 crash layer - see build_stats fusion block and verification.md. Bikeway street names are normalized to the crash-address form (suffix expansion AVE->AV etc. and PIKE->PKE as in the crash addresses, house numbers stripped on the crash side). Physical scale: network = 510 segments / 314.9 recorded miles across 244 raw OnStreetName values (242 normalized names).
